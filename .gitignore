@@ -1,0 +1,14 @@
+
+__pycache__/
+
+.env/
+.venv/
+myenv/
+myvenv/
+
+
+.vscode/
+
+.lightning_studio/
+
+this_studio.iml
